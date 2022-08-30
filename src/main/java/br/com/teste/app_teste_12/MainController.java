@@ -10,6 +10,6 @@ public class MainController {
 
 	@GetMapping
 	public String retornaHelloWorld() {
-		return "Fala Fiote!";
+		return "Fala Fiote 2.8!";
 	}
 }
